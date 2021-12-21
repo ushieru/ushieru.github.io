@@ -32,7 +32,7 @@ const Home = () => {
           <p>Github</p>
         </a>
         <a
-          href="https://developers.google.com/profile/u/110578328349513222610/"
+          href="https://g.dev/ushieru"
           target="_blank"
           className="flex flex-col items-center"
         >
