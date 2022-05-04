@@ -41,7 +41,7 @@ const Home = () => {
             src={googleDeveloperSvg}
             className="h-16 w-16 bg-gray-100 border-2 border-gray-100 rounded-full mx-7 mb-2"
           />
-          <p>Google Deve...</p>
+          <p style={{textOverflow: 'ellipsis', textAlign: 'center'}}>Google Developer</p>
         </a>
         <a
           href="https://www.linkedin.com/in/uzielcocolan/"
