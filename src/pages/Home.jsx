@@ -16,7 +16,7 @@ const Home = () => {
       <p className="font-bold text-5xl sm:text-7xl mt-10">I'm Ushieru</p>
       <p className="text-3xl sm:text-5xl mt-3">Software Engineer</p>
       <p className="text-center text-md sm:text-xl mt-3">
-        Entrepreneur, dance, theater and acrobatics enthusiast.
+        IBMer, entrepreneur, dance, theater and acrobatics enthusiast.
       </p>
       <div className="flex mt-10">
         <a
